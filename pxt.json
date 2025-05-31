@@ -1,0 +1,17 @@
+{
+    "name": "speech",
+    "version": "1.0.0",
+    "description": "Extensión para controlar la función de habla (speech) en MakeCode micro:bit.",
+    "dependencies": {
+        "core": "*",
+        "speech": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "license": "MIT"
+}
